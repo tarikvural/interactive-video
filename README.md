@@ -16,6 +16,11 @@ This Widget was developed directly within WebWriter for the most part. While I a
 # Usage
 After you first load the Widget and upload a Video/provide an URL, just click on the blue "+" Button to try adding an Interaction.
 
+## Nesting
+Nesting is supported only within the WebWriter application, to do this, while the widget is in focus, add a widget of any kind
+
+## Chapters 
+
 
 # License
 
