@@ -1,6 +1,7 @@
 # WebWriter Interactive Video Widget
 The Code in this repository is an interactive video Player written in Lit that allows for playing videos and embedding interactive Elements inside of it. It is designed to be used within the [WebWriter Platform](https://webwriter.app/).
-This Widget is written as part of my Bachelor Thesis titled "Design & Implementation of an Interactive Video Player in WebWriter".
+This Widget is written as part of my Bachelor Thesis titled "Design & Implementation of an Interactive Video Player in WebWriter".  
+An updated 
 
 ![An Overlay interaction](https://github.com/tarikvural/interactive-video/blob/main/overlay%20interaction.png?raw=true)  
 What an Overlay interaction looks like while the video is playing
