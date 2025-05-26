@@ -20,7 +20,8 @@ After you first load the Widget and upload a Video/provide an URL, just click on
 Nesting is supported only within the WebWriter application, to do this, while the widget is in focus, add a widget of any kind
 
 ## Chapters 
-
+![Chapter drawer with chapters](https://github.com/tarikvural/interactive-video/blob/main/chapter%20drawer%20with%20chapter.png)  
+To enable chapters, in teacher-view go to the cogwheel settings and enable chapters, then set them up from the chapter drawer
 
 # License
 
